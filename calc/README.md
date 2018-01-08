@@ -10,10 +10,12 @@ python版本 3.6.1
 该程序可以在windows或linux下运行  
 
 **四、目录结构及说明**  
-	calc:  
-        calc.py 	#主程序  
-        README.md 		#程序说明  
-        计算器流程图.png  
+```
+calc:  
+	calc.py 	#主程序  
+	README.md 		#程序说明  
+	计算器流程图.png 
+```
 
 **五、程序使用方法及功能**  
 1、运行clac.py运行程序  
